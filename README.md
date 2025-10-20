@@ -1,11 +1,8 @@
 <div align="center">
 
-  <!-- 背景图 -->
-  <img src="https://ysk-de-img.oss-cn-beijing.aliyuncs.com/img/202510201922454.jpg" width="100%" alt="banner"/>
-
   <!-- 打字效果标题 -->
   <a href="https://github.com/Yskkkkk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Hi%2C+I'm+Yuan+Saikuo!;Java+Developer+%7C+Backend+Engineer;Keep+Learning%2C+Keep+Coding." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Hi%2C+I'm+遇+安!;Java+Developer+%7C+Backend+Engineer;Keep+Learning%2C+Keep+Coding." alt="Typing SVG" />
   </a>
 
   <!-- 个人资料徽标 -->
@@ -18,13 +15,20 @@
 
 ---
 
-### 🧠 关于我
+### About me
 
 😄 你好！我是 K ，目前是一名研究生。  
+💻 热爱编程、运动、生活。  
+
+🪷 **人生格言**  
+> 🍃 物来顺应  
+> 🌅 未来不迎  
+> 🕊 当时不杂  
+> 🌙 既过不恋  
 
 ---
 
-### 🛠️ 技术栈与工具
+### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
@@ -39,22 +43,9 @@
 
 ---
 
-### 📈 GitHub 数据统计
+### About My Github
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yskkkkk&show_icons=true&theme=graywhite&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yskkkkk&layout=compact&theme=graywhite&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yskkkkk&theme=graywhite&hide_border=true" height="160" />
-</div>
-
----
-
-### 🌟 活动概览
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yskkkkk&theme=github" height="130" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yskkkkk&theme=github&utcOffset=8" height="130" />
+<div align="left">
+  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yskkkkk&layout=compact&langs_count=8" align="center" />
+  <img height='180' src="https://github-readme-stats.vercel.app/api?username=Yskkkkk&show_icons=true" align="center" />
 </div>
