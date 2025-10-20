@@ -1,9 +1,12 @@
 <div align="center">
 
-  <!-- 打字效果标题 -->
-  <a href="https://github.com/Yskkkkk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);Hi%2C+I'm+遇+安!;Java+Developer+%7C+Backend+Engineer;Keep+Learning%2C+Keep+Coding." alt="Typing SVG" />
-  </a>
+  <!-- 打字效果 -->
+<a href="https://github.com/Yskkkkk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8ACB&center=true&vCenter=true&width=650&lines=System.out.println(%22Hello+World!%22);I'm+K%2C+Have+a+nice+day!" alt="Typing SVG" />
+</a>
+
+  <!-- 敲代码图片 -->
+  <a href="https://sm.ms/image/n2wPkGMSgY7eKE3" target="_blank"><img src="https://s2.loli.net/2024/05/16/n2wPkGMSgY7eKE3.png" width="400" ></a>
 
   <!-- 个人资料徽标 -->
   <div>
@@ -20,11 +23,11 @@
 😄 你好！我是 K ，目前是一名研究生。  
 💻 热爱编程、运动、生活。  
 
-🪷 **人生格言**  
-> 🍃 物来顺应  
-> 🌅 未来不迎  
-> 🕊 当时不杂  
-> 🌙 既过不恋  
+  **人生格言**  
+> 物来顺应  
+> 未来不迎  
+> 当时不杂  
+> 既过不恋  
 
 ---
 
