@@ -9,7 +9,7 @@
 
 <h3>我使用的技术栈 Stacks I work with</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,redis,android,python,html,css,js,docker&amp;perline=5&amp;theme=dark" alt="Java, Spring, MySQL, Redis, Android, Python, HTML, CSS, JavaScript, Docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,redis,android,python,html,css,js,docker&amp;perline=10" alt="Java, Spring, MySQL, Redis, Android, Python, HTML, CSS, JavaScript, Docker" />
 </p>
 
 <h3>我使用的工具 Tools I use</h3>
