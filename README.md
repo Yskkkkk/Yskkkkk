@@ -14,5 +14,5 @@
 
 <h3>我使用的工具 Tools I use</h3>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,git,github,obsidian,linux,windows&amp;perline=6&amp;theme=dark" alt="IntelliJ IDEA, Git, GitHub, Obsidian, Linux, Windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,git,github,obsidian,linux,windows&amp;perline=6&amp;" alt="IntelliJ IDEA, Git, GitHub, Obsidian, Linux, Windows" />
 </p>
